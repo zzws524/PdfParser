@@ -1,0 +1,54 @@
+2016-12-21 15:18:52
+Now start to parse /home/ziwen/MyProjects/PdfPaser/Step2ToTxt/PDFs/600611/600611_2015.pdf
+2016-12-21 15:19:34
+Done...
+2016-12-21 15:19:34
+Now start to parse /home/ziwen/MyProjects/PdfPaser/Step2ToTxt/PDFs/600611/600611_2014.pdf
+2016-12-21 15:20:13
+Done...
+2016-12-21 15:20:13
+Now start to parse /home/ziwen/MyProjects/PdfPaser/Step2ToTxt/PDFs/000002/000002_2014.pdf
+2016-12-21 15:20:50
+Done...
+2016-12-21 15:20:50
+Now start to parse /home/ziwen/MyProjects/PdfPaser/Step2ToTxt/PDFs/000002/000002_2015.pdf
+2016-12-21 15:33:14
+Done...
+2016-12-28 13:47:53
+Now start to parse /home/ziwen/MyProjects/PdfPaser/Step2ToTxt/PDFs/600611/600611_2015.pdf
+2016-12-28 13:49:21
+Now start to parse /home/ziwen/MyProjects/PdfPaser/Step2ToTxt/PDFs/600611/600611_2015.pdf
+2016-12-28 13:50:02
+Done...
+2016-12-28 13:50:02
+Now start to parse /home/ziwen/MyProjects/PdfPaser/Step2ToTxt/PDFs/600611/600611_2014.pdf
+2016-12-28 13:50:39
+Done...
+2016-12-28 13:50:39
+Now start to parse /home/ziwen/MyProjects/PdfPaser/Step2ToTxt/PDFs/000002/000002_2014.pdf
+2016-12-28 13:51:16
+Done...
+2016-12-28 13:51:16
+Now start to parse /home/ziwen/MyProjects/PdfPaser/Step2ToTxt/PDFs/000002/000002_2015.pdf
+2016-12-28 14:03:05
+Done...
+2016-12-28 14:12:55
+Now start to parse /home/ziwen/MyProjects/PdfPaser/Step2ToTxt/PDFs/600611/600611_2015.pdf
+2016-12-28 14:33:42
+Now start to parse /home/ziwen/MyProjects/PdfPaser/Step2ToTxt/PDFs/600611/600611_2015.pdf
+2016-12-28 14:34:27
+Now start to parse /home/ziwen/MyProjects/PdfPaser/Step2ToTxt/PDFs/600611/600611_2015.pdf
+2016-12-28 14:35:05
+Done...
+2016-12-28 14:35:05
+Now start to parse /home/ziwen/MyProjects/PdfPaser/Step2ToTxt/PDFs/600611/600611_2014.pdf
+2016-12-28 14:35:43
+Done...
+2016-12-28 14:35:43
+Now start to parse /home/ziwen/MyProjects/PdfPaser/Step2ToTxt/PDFs/000002/000002_2014.pdf
+2016-12-28 14:36:18
+Done...
+2016-12-28 14:36:18
+Now start to parse /home/ziwen/MyProjects/PdfPaser/Step2ToTxt/PDFs/000002/000002_2015.pdf
+2016-12-28 14:48:10
+Done...

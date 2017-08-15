@@ -1,0 +1,514 @@
+2016-12-31 15:44:28    ---------------------
+2016-12-31 15:44:28    start to parse /home/ziwen/MyProjects/PdfPaser/Step3Keyword/TXTs/600611/600611_2014.txt
+2016-12-31 15:44:28    Search between 重要事项 to 普通股股份变动及股东情况
+2016-12-31 15:44:28    Not found anything between two keywords. Continue searching...
+2016-12-31 15:44:28    Search between 重要事项 to 股份变动及股东情况
+2016-12-31 15:44:29    Find contents between two keywords :) Stop searching...
+2016-12-31 15:44:29    ---------------------
+2016-12-31 15:44:29    start to parse /home/ziwen/MyProjects/PdfPaser/Step3Keyword/TXTs/600611/600611_2015.txt
+2016-12-31 15:44:29    Search between 重要事项 to 普通股股份变动及股东情况
+2016-12-31 15:44:29    Find contents between two keywords :) Stop searching...
+2016-12-31 15:44:29    ---------------------
+2016-12-31 15:44:29    start to parse /home/ziwen/MyProjects/PdfPaser/Step3Keyword/TXTs/000002/000002_2014.txt
+2016-12-31 15:44:29    Search between 重要事项 to 普通股股份变动及股东情况
+2016-12-31 15:44:29    Not found anything between two keywords. Continue searching...
+2016-12-31 15:44:29    Search between 重要事项 to 股份变动及股东情况
+2016-12-31 15:44:29    Not found anything between two keywords. Continue searching...
+2016-12-31 15:44:29    Search between 重要事项 to 股本变动及股东情况
+2016-12-31 15:44:29    Find contents between two keywords :) Stop searching...
+2016-12-31 15:44:29    ---------------------
+2016-12-31 15:44:29    start to parse /home/ziwen/MyProjects/PdfPaser/Step3Keyword/TXTs/000002/000002_2015.txt
+2016-12-31 15:44:29    Search between 重要事项 to 普通股股份变动及股东情况
+2016-12-31 15:44:29    Not found anything between two keywords. Continue searching...
+2016-12-31 15:44:29    Search between 重要事项 to 股份变动及股东情况
+2016-12-31 15:44:29    Not found anything between two keywords. Continue searching...
+2016-12-31 15:44:29    Search between 重要事项 to 股本变动及股东情况
+2016-12-31 15:44:29    Find contents between two keywords :) Stop searching...
+2016-12-31 15:52:35    ---------------------
+2016-12-31 15:52:35    start to parse /home/ziwen/MyProjects/PdfPaser/Step3Keyword/TXTs/600611/600611_2014.txt
+2016-12-31 15:52:35    Search between 重要事项 to 普通股股份变动及股东情况
+2016-12-31 15:52:35    Not found anything between two keywords. Continue searching...
+2016-12-31 15:52:35    Search between 重要事项 to 股份变动及股东情况
+2016-12-31 15:52:35    Find contents between two keywords :) Stop searching...
+2016-12-31 15:52:35    ---------------------
+2016-12-31 15:52:35    start to parse /home/ziwen/MyProjects/PdfPaser/Step3Keyword/TXTs/600611/600611_2015.txt
+2016-12-31 15:52:35    Search between 重要事项 to 普通股股份变动及股东情况
+2016-12-31 15:52:35    Find contents between two keywords :) Stop searching...
+2016-12-31 15:52:35    ---------------------
+2016-12-31 15:52:35    start to parse /home/ziwen/MyProjects/PdfPaser/Step3Keyword/TXTs/000002/000002_2014.txt
+2016-12-31 15:52:35    Search between 重要事项 to 普通股股份变动及股东情况
+2016-12-31 15:52:35    Not found anything between two keywords. Continue searching...
+2016-12-31 15:52:35    Search between 重要事项 to 股份变动及股东情况
+2016-12-31 15:52:35    Not found anything between two keywords. Continue searching...
+2016-12-31 15:52:35    Search between 重要事项 to 股本变动及股东情况
+2016-12-31 15:52:35    Find contents between two keywords :) Stop searching...
+2016-12-31 15:52:35    ---------------------
+2016-12-31 15:52:35    start to parse /home/ziwen/MyProjects/PdfPaser/Step3Keyword/TXTs/000002/000002_2015.txt
+2016-12-31 15:52:35    Search between 重要事项 to 普通股股份变动及股东情况
+2016-12-31 15:52:36    Not found anything between two keywords. Continue searching...
+2016-12-31 15:52:36    Search between 重要事项 to 股份变动及股东情况
+2016-12-31 15:52:36    Not found anything between two keywords. Continue searching...
+2016-12-31 15:52:36    Search between 重要事项 to 股本变动及股东情况
+2016-12-31 15:52:36    Find contents between two keywords :) Stop searching...
+2016-12-31 15:55:57    ---------------------
+2016-12-31 15:55:57    start to parse /home/ziwen/MyProjects/PdfPaser/Step3Keyword/TXTs/600611/600611_2014.txt
+2016-12-31 15:55:57    Search between 重要事项 to 普通股股份变动及股东情况
+2016-12-31 15:55:57    Not found anything between two keywords. Continue searching...
+2016-12-31 15:55:57    Search between 重要事项 to 股份变动及股东情况
+2016-12-31 15:55:57    Find contents between two keywords :) Stop searching...
+2016-12-31 15:56:03    ---------------------
+2016-12-31 15:56:03    start to parse /home/ziwen/MyProjects/PdfPaser/Step3Keyword/TXTs/600611/600611_2014.txt
+2016-12-31 15:56:03    Search between 重要事项 to 普通股股份变动及股东情况
+2016-12-31 15:56:03    Not found anything between two keywords. Continue searching...
+2016-12-31 15:56:03    Search between 重要事项 to 股份变动及股东情况
+2016-12-31 15:56:04    Find contents between two keywords :) Stop searching...
+2016-12-31 15:56:26    ---------------------
+2016-12-31 15:56:26    start to parse /home/ziwen/MyProjects/PdfPaser/Step3Keyword/TXTs/600611/600611_2014.txt
+2016-12-31 15:56:26    Search between 重要事项 to 普通股股份变动及股东情况
+2016-12-31 15:56:26    Not found anything between two keywords. Continue searching...
+2016-12-31 15:56:26    Search between 重要事项 to 股份变动及股东情况
+2016-12-31 15:56:26    Find contents between two keywords :) Stop searching...
+2016-12-31 15:56:26    find 1公司股东的净利
+2016-12-31 15:56:26    find 3委托
+2016-12-31 15:56:26    ---------------------
+2016-12-31 15:56:26    start to parse /home/ziwen/MyProjects/PdfPaser/Step3Keyword/TXTs/600611/600611_2015.txt
+2016-12-31 15:56:26    Search between 重要事项 to 普通股股份变动及股东情况
+2016-12-31 15:56:26    Find contents between two keywords :) Stop searching...
+2016-12-31 15:56:26    find 1公司股东的净利
+2016-12-31 15:56:26    find 7委托
+2016-12-31 15:56:26    ---------------------
+2016-12-31 15:56:26    start to parse /home/ziwen/MyProjects/PdfPaser/Step3Keyword/TXTs/000002/000002_2014.txt
+2016-12-31 15:56:26    Search between 重要事项 to 普通股股份变动及股东情况
+2016-12-31 15:56:26    Not found anything between two keywords. Continue searching...
+2016-12-31 15:56:26    Search between 重要事项 to 股份变动及股东情况
+2016-12-31 15:56:26    Not found anything between two keywords. Continue searching...
+2016-12-31 15:56:26    Search between 重要事项 to 股本变动及股东情况
+2016-12-31 15:56:26    Find contents between two keywords :) Stop searching...
+2016-12-31 15:56:26    find 0公司股东的净利
+2016-12-31 15:56:26    find 0委托
+2016-12-31 15:56:26    ---------------------
+2016-12-31 15:56:26    start to parse /home/ziwen/MyProjects/PdfPaser/Step3Keyword/TXTs/000002/000002_2015.txt
+2016-12-31 15:56:26    Search between 重要事项 to 普通股股份变动及股东情况
+2016-12-31 15:56:27    Not found anything between two keywords. Continue searching...
+2016-12-31 15:56:27    Search between 重要事项 to 股份变动及股东情况
+2016-12-31 15:56:27    Not found anything between two keywords. Continue searching...
+2016-12-31 15:56:27    Search between 重要事项 to 股本变动及股东情况
+2016-12-31 15:56:27    Find contents between two keywords :) Stop searching...
+2016-12-31 15:56:27    find 0公司股东的净利
+2016-12-31 15:56:27    find 0委托
+2016-12-31 15:57:09    ---------------------
+2016-12-31 15:57:09    start to parse /home/ziwen/MyProjects/PdfPaser/Step3Keyword/TXTs/600611/600611_2014.txt
+2016-12-31 15:57:09    Search between 重要事项 to 普通股股份变动及股东情况
+2016-12-31 15:57:09    Not found anything between two keywords. Continue searching...
+2016-12-31 15:57:09    Search between 重要事项 to 股份变动及股东情况
+2016-12-31 15:57:09    Find contents between two keywords :) Stop searching...
+2016-12-31 15:57:09    find 1 公司股东的净利
+2016-12-31 15:57:09    find 3 委托
+2016-12-31 15:57:09    ---------------------
+2016-12-31 15:57:09    start to parse /home/ziwen/MyProjects/PdfPaser/Step3Keyword/TXTs/600611/600611_2015.txt
+2016-12-31 15:57:09    Search between 重要事项 to 普通股股份变动及股东情况
+2016-12-31 15:57:09    Find contents between two keywords :) Stop searching...
+2016-12-31 15:57:09    find 1 公司股东的净利
+2016-12-31 15:57:09    find 7 委托
+2016-12-31 15:57:09    ---------------------
+2016-12-31 15:57:09    start to parse /home/ziwen/MyProjects/PdfPaser/Step3Keyword/TXTs/000002/000002_2014.txt
+2016-12-31 15:57:09    Search between 重要事项 to 普通股股份变动及股东情况
+2016-12-31 15:57:09    Not found anything between two keywords. Continue searching...
+2016-12-31 15:57:09    Search between 重要事项 to 股份变动及股东情况
+2016-12-31 15:57:09    Not found anything between two keywords. Continue searching...
+2016-12-31 15:57:09    Search between 重要事项 to 股本变动及股东情况
+2016-12-31 15:57:09    Find contents between two keywords :) Stop searching...
+2016-12-31 15:57:09    find 0 公司股东的净利
+2016-12-31 15:57:09    find 0 委托
+2016-12-31 15:57:09    ---------------------
+2016-12-31 15:57:09    start to parse /home/ziwen/MyProjects/PdfPaser/Step3Keyword/TXTs/000002/000002_2015.txt
+2016-12-31 15:57:09    Search between 重要事项 to 普通股股份变动及股东情况
+2016-12-31 15:57:10    Not found anything between two keywords. Continue searching...
+2016-12-31 15:57:10    Search between 重要事项 to 股份变动及股东情况
+2016-12-31 15:57:10    Not found anything between two keywords. Continue searching...
+2016-12-31 15:57:10    Search between 重要事项 to 股本变动及股东情况
+2016-12-31 15:57:10    Find contents between two keywords :) Stop searching...
+2016-12-31 15:57:10    find 0 公司股东的净利
+2016-12-31 15:57:10    find 0 委托
+2016-12-31 16:33:17    ---------------------
+2016-12-31 16:33:17    start to parse /home/ziwen/MyProjects/PdfPaser/Step3Keyword/TXTs/600611/600611_2014.txt
+2016-12-31 16:33:17    Search between 重要事项 to 普通股股份变动及股东情况
+2016-12-31 16:33:17    Not found anything between two keywords. Continue searching...
+2016-12-31 16:33:17    Search between 重要事项 to 股份变动及股东情况
+2016-12-31 16:33:17    Find contents between two keywords :) Stop searching...
+2016-12-31 16:33:17    find 1 公司股东的净利
+2016-12-31 16:33:17    find 3 委托
+2016-12-31 16:33:17    ---------------------
+2016-12-31 16:33:17    start to parse /home/ziwen/MyProjects/PdfPaser/Step3Keyword/TXTs/600611/600611_2015.txt
+2016-12-31 16:33:17    Search between 重要事项 to 普通股股份变动及股东情况
+2016-12-31 16:33:17    Find contents between two keywords :) Stop searching...
+2016-12-31 16:33:17    find 1 公司股东的净利
+2016-12-31 16:33:17    find 7 委托
+2016-12-31 16:33:17    ---------------------
+2016-12-31 16:33:17    start to parse /home/ziwen/MyProjects/PdfPaser/Step3Keyword/TXTs/000002/000002_2014.txt
+2016-12-31 16:33:17    Search between 重要事项 to 普通股股份变动及股东情况
+2016-12-31 16:33:17    Not found anything between two keywords. Continue searching...
+2016-12-31 16:33:17    Search between 重要事项 to 股份变动及股东情况
+2016-12-31 16:33:17    Not found anything between two keywords. Continue searching...
+2016-12-31 16:33:17    Search between 重要事项 to 股本变动及股东情况
+2016-12-31 16:33:17    Find contents between two keywords :) Stop searching...
+2016-12-31 16:33:17    find 0 公司股东的净利
+2016-12-31 16:33:17    find 0 委托
+2016-12-31 16:33:17    ---------------------
+2016-12-31 16:33:17    start to parse /home/ziwen/MyProjects/PdfPaser/Step3Keyword/TXTs/000002/000002_2015.txt
+2016-12-31 16:33:17    Search between 重要事项 to 普通股股份变动及股东情况
+2016-12-31 16:33:17    Not found anything between two keywords. Continue searching...
+2016-12-31 16:33:17    Search between 重要事项 to 股份变动及股东情况
+2016-12-31 16:33:18    Not found anything between two keywords. Continue searching...
+2016-12-31 16:33:18    Search between 重要事项 to 股本变动及股东情况
+2016-12-31 16:33:18    Find contents between two keywords :) Stop searching...
+2016-12-31 16:33:18    find 0 公司股东的净利
+2016-12-31 16:33:18    find 0 委托
+2016-12-31 16:33:26    ---------------------
+2016-12-31 16:33:26    start to parse /home/ziwen/MyProjects/PdfPaser/Step3Keyword/TXTs/600611/600611_2014.txt
+2016-12-31 16:33:26    Search between 重要事项 to 普通股股份变动及股东情况
+2016-12-31 16:33:26    Not found anything between two keywords. Continue searching...
+2016-12-31 16:33:26    Search between 重要事项 to 股份变动及股东情况
+2016-12-31 16:33:26    Find contents between two keywords :) Stop searching...
+2016-12-31 16:33:26    find 1 公司股东的净利
+2016-12-31 16:33:26    find 3 委托
+2016-12-31 16:33:26    ---------------------
+2016-12-31 16:33:26    start to parse /home/ziwen/MyProjects/PdfPaser/Step3Keyword/TXTs/600611/600611_2015.txt
+2016-12-31 16:33:26    Search between 重要事项 to 普通股股份变动及股东情况
+2016-12-31 16:33:27    Find contents between two keywords :) Stop searching...
+2016-12-31 16:33:27    find 1 公司股东的净利
+2016-12-31 16:33:27    find 7 委托
+2016-12-31 16:33:27    ---------------------
+2016-12-31 16:33:27    start to parse /home/ziwen/MyProjects/PdfPaser/Step3Keyword/TXTs/000002/000002_2014.txt
+2016-12-31 16:33:27    Search between 重要事项 to 普通股股份变动及股东情况
+2016-12-31 16:33:27    Not found anything between two keywords. Continue searching...
+2016-12-31 16:33:27    Search between 重要事项 to 股份变动及股东情况
+2016-12-31 16:33:27    Not found anything between two keywords. Continue searching...
+2016-12-31 16:33:27    Search between 重要事项 to 股本变动及股东情况
+2016-12-31 16:33:27    Find contents between two keywords :) Stop searching...
+2016-12-31 16:33:27    find 0 公司股东的净利
+2016-12-31 16:33:27    find 0 委托
+2016-12-31 16:33:27    ---------------------
+2016-12-31 16:33:27    start to parse /home/ziwen/MyProjects/PdfPaser/Step3Keyword/TXTs/000002/000002_2015.txt
+2016-12-31 16:33:27    Search between 重要事项 to 普通股股份变动及股东情况
+2016-12-31 16:33:27    Not found anything between two keywords. Continue searching...
+2016-12-31 16:33:27    Search between 重要事项 to 股份变动及股东情况
+2016-12-31 16:33:27    Not found anything between two keywords. Continue searching...
+2016-12-31 16:33:27    Search between 重要事项 to 股本变动及股东情况
+2016-12-31 16:33:27    Find contents between two keywords :) Stop searching...
+2016-12-31 16:33:27    find 0 公司股东的净利
+2016-12-31 16:33:27    find 0 委托
+2016-12-31 16:34:20    ---------------------
+2016-12-31 16:34:20    start to parse /home/ziwen/MyProjects/PdfPaser/Step3Keyword/TXTs/600611/600611_2014.txt
+2016-12-31 16:34:20    Search between 重要事项 to 普通股股份变动及股东情况
+2016-12-31 16:34:20    Not found anything between two keywords. Continue searching...
+2016-12-31 16:34:20    Search between 重要事项 to 股份变动及股东情况
+2016-12-31 16:34:20    Find contents between two keywords :) Stop searching...
+2016-12-31 16:34:20    find 1 公司股东的净利
+2016-12-31 16:34:20    find 3 委托
+2016-12-31 16:34:20    ---------------------
+2016-12-31 16:34:20    start to parse /home/ziwen/MyProjects/PdfPaser/Step3Keyword/TXTs/600611/600611_2015.txt
+2016-12-31 16:34:20    Search between 重要事项 to 普通股股份变动及股东情况
+2016-12-31 16:34:20    Find contents between two keywords :) Stop searching...
+2016-12-31 16:34:20    find 1 公司股东的净利
+2016-12-31 16:34:20    find 7 委托
+2016-12-31 16:34:20    ---------------------
+2016-12-31 16:34:20    start to parse /home/ziwen/MyProjects/PdfPaser/Step3Keyword/TXTs/000002/000002_2014.txt
+2016-12-31 16:34:20    Search between 重要事项 to 普通股股份变动及股东情况
+2016-12-31 16:34:20    Not found anything between two keywords. Continue searching...
+2016-12-31 16:34:20    Search between 重要事项 to 股份变动及股东情况
+2016-12-31 16:34:20    Not found anything between two keywords. Continue searching...
+2016-12-31 16:34:20    Search between 重要事项 to 股本变动及股东情况
+2016-12-31 16:34:20    Find contents between two keywords :) Stop searching...
+2016-12-31 16:34:20    find 0 公司股东的净利
+2016-12-31 16:34:20    find 0 委托
+2016-12-31 16:34:20    ---------------------
+2016-12-31 16:34:20    start to parse /home/ziwen/MyProjects/PdfPaser/Step3Keyword/TXTs/000002/000002_2015.txt
+2016-12-31 16:34:20    Search between 重要事项 to 普通股股份变动及股东情况
+2016-12-31 16:34:21    Not found anything between two keywords. Continue searching...
+2016-12-31 16:34:21    Search between 重要事项 to 股份变动及股东情况
+2016-12-31 16:34:21    Not found anything between two keywords. Continue searching...
+2016-12-31 16:34:21    Search between 重要事项 to 股本变动及股东情况
+2016-12-31 16:34:21    Find contents between two keywords :) Stop searching...
+2016-12-31 16:34:21    find 0 公司股东的净利
+2016-12-31 16:34:21    find 0 委托
+2016-12-31 16:35:00    ---------------------
+2016-12-31 16:35:00    start to parse /home/ziwen/MyProjects/PdfPaser/Step3Keyword/TXTs/600611/600611_2014.txt
+2016-12-31 16:35:00    Search between 重要事项 to 普通股股份变动及股东情况
+2016-12-31 16:35:00    Not found anything between two keywords. Continue searching...
+2016-12-31 16:35:00    Search between 重要事项 to 股份变动及股东情况
+2016-12-31 16:35:00    Find contents between two keywords :) Stop searching...
+2016-12-31 16:35:00    find 1 公司股东的净利
+2016-12-31 16:35:00    find 3 委托
+2016-12-31 16:35:00    ---------------------
+2016-12-31 16:35:00    start to parse /home/ziwen/MyProjects/PdfPaser/Step3Keyword/TXTs/600611/600611_2015.txt
+2016-12-31 16:35:00    Search between 重要事项 to 普通股股份变动及股东情况
+2016-12-31 16:35:00    Find contents between two keywords :) Stop searching...
+2016-12-31 16:35:00    find 1 公司股东的净利
+2016-12-31 16:35:00    find 7 委托
+2016-12-31 16:35:00    ---------------------
+2016-12-31 16:35:00    start to parse /home/ziwen/MyProjects/PdfPaser/Step3Keyword/TXTs/000002/000002_2014.txt
+2016-12-31 16:35:00    Search between 重要事项 to 普通股股份变动及股东情况
+2016-12-31 16:35:00    Not found anything between two keywords. Continue searching...
+2016-12-31 16:35:00    Search between 重要事项 to 股份变动及股东情况
+2016-12-31 16:35:00    Not found anything between two keywords. Continue searching...
+2016-12-31 16:35:00    Search between 重要事项 to 股本变动及股东情况
+2016-12-31 16:35:00    Find contents between two keywords :) Stop searching...
+2016-12-31 16:35:00    find 0 公司股东的净利
+2016-12-31 16:35:00    find 0 委托
+2016-12-31 16:35:00    ---------------------
+2016-12-31 16:35:00    start to parse /home/ziwen/MyProjects/PdfPaser/Step3Keyword/TXTs/000002/000002_2015.txt
+2016-12-31 16:35:00    Search between 重要事项 to 普通股股份变动及股东情况
+2016-12-31 16:35:00    Not found anything between two keywords. Continue searching...
+2016-12-31 16:35:00    Search between 重要事项 to 股份变动及股东情况
+2016-12-31 16:35:00    Not found anything between two keywords. Continue searching...
+2016-12-31 16:35:00    Search between 重要事项 to 股本变动及股东情况
+2016-12-31 16:35:01    Find contents between two keywords :) Stop searching...
+2016-12-31 16:35:01    find 0 公司股东的净利
+2016-12-31 16:35:01    find 0 委托
+2016-12-31 16:35:57    ---------------------
+2016-12-31 16:35:57    start to parse /home/ziwen/MyProjects/PdfPaser/Step3Keyword/TXTs/600611/600611_2014.txt
+2016-12-31 16:35:57    Search between 重要事项 to 普通股股份变动及股东情况
+2016-12-31 16:35:57    Not found anything between two keywords. Continue searching...
+2016-12-31 16:35:57    Search between 重要事项 to 股份变动及股东情况
+2016-12-31 16:35:57    Find contents between two keywords :) Stop searching...
+2016-12-31 16:35:57    find 1 公司股东的净利
+2016-12-31 16:35:57    find 3 委托
+2016-12-31 16:35:57    ---------------------
+2016-12-31 16:35:57    start to parse /home/ziwen/MyProjects/PdfPaser/Step3Keyword/TXTs/600611/600611_2015.txt
+2016-12-31 16:35:57    Search between 重要事项 to 普通股股份变动及股东情况
+2016-12-31 16:35:57    Find contents between two keywords :) Stop searching...
+2016-12-31 16:35:57    find 1 公司股东的净利
+2016-12-31 16:35:57    find 7 委托
+2016-12-31 16:35:57    ---------------------
+2016-12-31 16:35:57    start to parse /home/ziwen/MyProjects/PdfPaser/Step3Keyword/TXTs/000002/000002_2014.txt
+2016-12-31 16:35:57    Search between 重要事项 to 普通股股份变动及股东情况
+2016-12-31 16:35:57    Not found anything between two keywords. Continue searching...
+2016-12-31 16:35:57    Search between 重要事项 to 股份变动及股东情况
+2016-12-31 16:35:58    Not found anything between two keywords. Continue searching...
+2016-12-31 16:35:58    Search between 重要事项 to 股本变动及股东情况
+2016-12-31 16:35:58    Find contents between two keywords :) Stop searching...
+2016-12-31 16:35:58    find 0 公司股东的净利
+2016-12-31 16:35:58    find 0 委托
+2016-12-31 16:35:58    ---------------------
+2016-12-31 16:35:58    start to parse /home/ziwen/MyProjects/PdfPaser/Step3Keyword/TXTs/000002/000002_2015.txt
+2016-12-31 16:35:58    Search between 重要事项 to 普通股股份变动及股东情况
+2016-12-31 16:35:58    Not found anything between two keywords. Continue searching...
+2016-12-31 16:35:58    Search between 重要事项 to 股份变动及股东情况
+2016-12-31 16:35:58    Not found anything between two keywords. Continue searching...
+2016-12-31 16:35:58    Search between 重要事项 to 股本变动及股东情况
+2016-12-31 16:35:58    Find contents between two keywords :) Stop searching...
+2016-12-31 16:35:58    find 0 公司股东的净利
+2016-12-31 16:35:58    find 0 委托
+2016-12-31 16:36:58    ---------------------
+2016-12-31 16:36:58    start to parse /home/ziwen/MyProjects/PdfPaser/Step3Keyword/TXTs/600611/600611_2014.txt
+2016-12-31 16:36:58    Search between 重要事项 to 普通股股份变动及股东情况
+2016-12-31 16:36:59    Not found anything between two keywords. Continue searching...
+2016-12-31 16:36:59    Search between 重要事项 to 股份变动及股东情况
+2016-12-31 16:36:59    Find contents between two keywords :) Stop searching...
+2016-12-31 16:36:59    find 1 公司股东的净利
+2016-12-31 16:36:59    find 3 委托
+2016-12-31 16:36:59    ---------------------
+2016-12-31 16:36:59    start to parse /home/ziwen/MyProjects/PdfPaser/Step3Keyword/TXTs/600611/600611_2015.txt
+2016-12-31 16:36:59    Search between 重要事项 to 普通股股份变动及股东情况
+2016-12-31 16:36:59    Find contents between two keywords :) Stop searching...
+2016-12-31 16:36:59    find 1 公司股东的净利
+2016-12-31 16:36:59    find 7 委托
+2016-12-31 16:36:59    ---------------------
+2016-12-31 16:36:59    start to parse /home/ziwen/MyProjects/PdfPaser/Step3Keyword/TXTs/000002/000002_2014.txt
+2016-12-31 16:36:59    Search between 重要事项 to 普通股股份变动及股东情况
+2016-12-31 16:36:59    Not found anything between two keywords. Continue searching...
+2016-12-31 16:36:59    Search between 重要事项 to 股份变动及股东情况
+2016-12-31 16:36:59    Not found anything between two keywords. Continue searching...
+2016-12-31 16:36:59    Search between 重要事项 to 股本变动及股东情况
+2016-12-31 16:36:59    Find contents between two keywords :) Stop searching...
+2016-12-31 16:36:59    find 0 公司股东的净利
+2016-12-31 16:36:59    find 0 委托
+2016-12-31 16:36:59    ---------------------
+2016-12-31 16:36:59    start to parse /home/ziwen/MyProjects/PdfPaser/Step3Keyword/TXTs/000002/000002_2015.txt
+2016-12-31 16:36:59    Search between 重要事项 to 普通股股份变动及股东情况
+2016-12-31 16:36:59    Not found anything between two keywords. Continue searching...
+2016-12-31 16:36:59    Search between 重要事项 to 股份变动及股东情况
+2016-12-31 16:36:59    Not found anything between two keywords. Continue searching...
+2016-12-31 16:36:59    Search between 重要事项 to 股本变动及股东情况
+2016-12-31 16:36:59    Find contents between two keywords :) Stop searching...
+2016-12-31 16:36:59    find 0 公司股东的净利
+2016-12-31 16:36:59    find 0 委托
+2016-12-31 16:37:22    ---------------------
+2016-12-31 16:37:22    start to parse /home/ziwen/MyProjects/PdfPaser/Step3Keyword/TXTs/600611/600611_2014.txt
+2016-12-31 16:37:22    Search between 重要事项 to 普通股股份变动及股东情况
+2016-12-31 16:37:23    Not found anything between two keywords. Continue searching...
+2016-12-31 16:37:23    Search between 重要事项 to 股份变动及股东情况
+2016-12-31 16:37:23    Find contents between two keywords :) Stop searching...
+2016-12-31 16:37:23    find 1 公司股东的净利
+2016-12-31 16:37:23    find 3 委托
+2016-12-31 16:37:23    ---------------------
+2016-12-31 16:37:23    start to parse /home/ziwen/MyProjects/PdfPaser/Step3Keyword/TXTs/600611/600611_2015.txt
+2016-12-31 16:37:23    Search between 重要事项 to 普通股股份变动及股东情况
+2016-12-31 16:37:23    Find contents between two keywords :) Stop searching...
+2016-12-31 16:37:23    find 1 公司股东的净利
+2016-12-31 16:37:23    find 7 委托
+2016-12-31 16:37:23    ---------------------
+2016-12-31 16:37:23    start to parse /home/ziwen/MyProjects/PdfPaser/Step3Keyword/TXTs/000002/000002_2014.txt
+2016-12-31 16:37:23    Search between 重要事项 to 普通股股份变动及股东情况
+2016-12-31 16:37:23    Not found anything between two keywords. Continue searching...
+2016-12-31 16:37:23    Search between 重要事项 to 股份变动及股东情况
+2016-12-31 16:37:23    Not found anything between two keywords. Continue searching...
+2016-12-31 16:37:23    Search between 重要事项 to 股本变动及股东情况
+2016-12-31 16:37:23    Find contents between two keywords :) Stop searching...
+2016-12-31 16:37:23    find 0 公司股东的净利
+2016-12-31 16:37:23    find 0 委托
+2016-12-31 16:37:23    ---------------------
+2016-12-31 16:37:23    start to parse /home/ziwen/MyProjects/PdfPaser/Step3Keyword/TXTs/000002/000002_2015.txt
+2016-12-31 16:37:23    Search between 重要事项 to 普通股股份变动及股东情况
+2016-12-31 16:37:23    Not found anything between two keywords. Continue searching...
+2016-12-31 16:37:23    Search between 重要事项 to 股份变动及股东情况
+2016-12-31 16:37:23    Not found anything between two keywords. Continue searching...
+2016-12-31 16:37:23    Search between 重要事项 to 股本变动及股东情况
+2016-12-31 16:37:23    Find contents between two keywords :) Stop searching...
+2016-12-31 16:37:23    find 0 公司股东的净利
+2016-12-31 16:37:23    find 0 委托
+2016-12-31 16:39:16    ---------------------
+2016-12-31 16:39:16    start to parse /home/ziwen/MyProjects/PdfPaser/Step3Keyword/TXTs/600611/600611_2014.txt
+2016-12-31 16:39:16    Search between 重要事项 to 普通股股份变动及股东情况
+2016-12-31 16:39:16    Not found anything between two keywords. Continue searching...
+2016-12-31 16:39:16    Search between 重要事项 to 股份变动及股东情况
+2016-12-31 16:39:16    Find contents between two keywords :) Stop searching...
+2016-12-31 16:39:16    find 1 公司股东的净利
+2016-12-31 16:39:16    find 3 委托
+2016-12-31 16:39:16    find 0 华润集团
+2016-12-31 16:39:16    ---------------------
+2016-12-31 16:39:16    start to parse /home/ziwen/MyProjects/PdfPaser/Step3Keyword/TXTs/600611/600611_2015.txt
+2016-12-31 16:39:16    Search between 重要事项 to 普通股股份变动及股东情况
+2016-12-31 16:39:16    Find contents between two keywords :) Stop searching...
+2016-12-31 16:39:16    find 1 公司股东的净利
+2016-12-31 16:39:16    find 7 委托
+2016-12-31 16:39:16    find 0 华润集团
+2016-12-31 16:39:16    ---------------------
+2016-12-31 16:39:16    start to parse /home/ziwen/MyProjects/PdfPaser/Step3Keyword/TXTs/000002/000002_2014.txt
+2016-12-31 16:39:16    Search between 重要事项 to 普通股股份变动及股东情况
+2016-12-31 16:39:16    Not found anything between two keywords. Continue searching...
+2016-12-31 16:39:16    Search between 重要事项 to 股份变动及股东情况
+2016-12-31 16:39:16    Not found anything between two keywords. Continue searching...
+2016-12-31 16:39:16    Search between 重要事项 to 股本变动及股东情况
+2016-12-31 16:39:16    Find contents between two keywords :) Stop searching...
+2016-12-31 16:39:16    find 0 公司股东的净利
+2016-12-31 16:39:16    find 0 委托
+2016-12-31 16:39:16    find 1 华润集团
+2016-12-31 16:39:16    ---------------------
+2016-12-31 16:39:16    start to parse /home/ziwen/MyProjects/PdfPaser/Step3Keyword/TXTs/000002/000002_2015.txt
+2016-12-31 16:39:16    Search between 重要事项 to 普通股股份变动及股东情况
+2016-12-31 16:39:17    Not found anything between two keywords. Continue searching...
+2016-12-31 16:39:17    Search between 重要事项 to 股份变动及股东情况
+2016-12-31 16:39:17    Not found anything between two keywords. Continue searching...
+2016-12-31 16:39:17    Search between 重要事项 to 股本变动及股东情况
+2016-12-31 16:39:17    Find contents between two keywords :) Stop searching...
+2016-12-31 16:39:17    find 0 公司股东的净利
+2016-12-31 16:39:17    find 0 委托
+2016-12-31 16:39:17    find 1 华润集团
+2016-12-31 16:41:23    ---------------------
+2016-12-31 16:41:23    start to parse /home/ziwen/MyProjects/PdfPaser/Step3Keyword/TXTs/600611/600611_2014.txt
+2016-12-31 16:41:23    Search between 重要事项 to 普通股股份变动及股东情况
+2016-12-31 16:41:23    Not found anything between two keywords. Continue searching...
+2016-12-31 16:41:23    Search between 重要事项 to 股份变动及股东情况
+2016-12-31 16:41:23    Find contents between two keywords :) Stop searching...
+2016-12-31 16:41:23    find 1 公司股东的净利
+2016-12-31 16:41:23    find 3 委托
+2016-12-31 16:41:23    find 0 华润
+2016-12-31 16:41:23    ---------------------
+2016-12-31 16:41:23    start to parse /home/ziwen/MyProjects/PdfPaser/Step3Keyword/TXTs/600611/600611_2015.txt
+2016-12-31 16:41:23    Search between 重要事项 to 普通股股份变动及股东情况
+2016-12-31 16:41:23    Find contents between two keywords :) Stop searching...
+2016-12-31 16:41:23    find 1 公司股东的净利
+2016-12-31 16:41:23    find 7 委托
+2016-12-31 16:41:23    find 0 华润
+2016-12-31 16:41:23    ---------------------
+2016-12-31 16:41:23    start to parse /home/ziwen/MyProjects/PdfPaser/Step3Keyword/TXTs/000002/000002_2014.txt
+2016-12-31 16:41:23    Search between 重要事项 to 普通股股份变动及股东情况
+2016-12-31 16:41:23    Not found anything between two keywords. Continue searching...
+2016-12-31 16:41:23    Search between 重要事项 to 股份变动及股东情况
+2016-12-31 16:41:23    Not found anything between two keywords. Continue searching...
+2016-12-31 16:41:23    Search between 重要事项 to 股本变动及股东情况
+2016-12-31 16:41:23    Find contents between two keywords :) Stop searching...
+2016-12-31 16:41:23    find 0 公司股东的净利
+2016-12-31 16:41:23    find 0 委托
+2016-12-31 16:41:23    find 11 华润
+2016-12-31 16:41:23    ---------------------
+2016-12-31 16:41:23    start to parse /home/ziwen/MyProjects/PdfPaser/Step3Keyword/TXTs/000002/000002_2015.txt
+2016-12-31 16:41:23    Search between 重要事项 to 普通股股份变动及股东情况
+2016-12-31 16:41:23    Not found anything between two keywords. Continue searching...
+2016-12-31 16:41:23    Search between 重要事项 to 股份变动及股东情况
+2016-12-31 16:41:24    Not found anything between two keywords. Continue searching...
+2016-12-31 16:41:24    Search between 重要事项 to 股本变动及股东情况
+2016-12-31 16:41:24    Find contents between two keywords :) Stop searching...
+2016-12-31 16:41:24    find 0 公司股东的净利
+2016-12-31 16:41:24    find 0 委托
+2016-12-31 16:41:24    find 10 华润
+2016-12-31 16:42:21    ---------------------
+2016-12-31 16:42:21    start to parse /home/ziwen/MyProjects/PdfPaser/Step3Keyword/TXTs/600611/600611_2014.txt
+2016-12-31 16:42:21    Search between 重要事项 to 普通股股份变动及股东情况
+2016-12-31 16:42:21    Not found anything between two keywords. Continue searching...
+2016-12-31 16:42:21    Search between 重要事项 to 股份变动及股东情况
+2016-12-31 16:42:22    Find contents between two keywords :) Stop searching...
+2016-12-31 16:42:22    find 1 公司股东的净利
+2016-12-31 16:42:22    find 3 委托
+2016-12-31 16:42:22    find 0 华润
+2016-12-31 16:42:22    ---------------------
+2016-12-31 16:42:22    start to parse /home/ziwen/MyProjects/PdfPaser/Step3Keyword/TXTs/600611/600611_2015.txt
+2016-12-31 16:42:22    Search between 重要事项 to 普通股股份变动及股东情况
+2016-12-31 16:42:22    Find contents between two keywords :) Stop searching...
+2016-12-31 16:42:22    find 1 公司股东的净利
+2016-12-31 16:42:22    find 7 委托
+2016-12-31 16:42:22    find 0 华润
+2016-12-31 16:42:22    ---------------------
+2016-12-31 16:42:22    start to parse /home/ziwen/MyProjects/PdfPaser/Step3Keyword/TXTs/000002/000002_2014.txt
+2016-12-31 16:42:22    Search between 重要事项 to 普通股股份变动及股东情况
+2016-12-31 16:42:22    Not found anything between two keywords. Continue searching...
+2016-12-31 16:42:22    Search between 重要事项 to 股份变动及股东情况
+2016-12-31 16:42:22    Not found anything between two keywords. Continue searching...
+2016-12-31 16:42:22    Warning: Didn't find anything between two keywords for this file. Please check.
+2016-12-31 16:42:22    ---------------------
+2016-12-31 16:42:22    start to parse /home/ziwen/MyProjects/PdfPaser/Step3Keyword/TXTs/000002/000002_2015.txt
+2016-12-31 16:42:22    Search between 重要事项 to 普通股股份变动及股东情况
+2016-12-31 16:42:22    Not found anything between two keywords. Continue searching...
+2016-12-31 16:42:22    Search between 重要事项 to 股份变动及股东情况
+2016-12-31 16:42:22    Not found anything between two keywords. Continue searching...
+2016-12-31 16:42:22    Warning: Didn't find anything between two keywords for this file. Please check.
+2016-12-31 16:43:30    ---------------------
+2016-12-31 16:43:30    start to parse /home/ziwen/MyProjects/PdfPaser/Step3Keyword/TXTs/600611/600611_2014.txt
+2016-12-31 16:43:30    Search between 重要事项 to 普通股股份变动及股东情况
+2016-12-31 16:43:30    Not found anything between two keywords. Continue searching...
+2016-12-31 16:43:30    Search between 重要事项 to 股份变动及股东情况
+2016-12-31 16:43:30    Find contents between two keywords :) Stop searching...
+2016-12-31 16:43:30    find 1 公司股东的净利
+2016-12-31 16:43:30    find 3 委托
+2016-12-31 16:43:30    find 0 华润
+2016-12-31 16:43:30    ---------------------
+2016-12-31 16:43:30    start to parse /home/ziwen/MyProjects/PdfPaser/Step3Keyword/TXTs/600611/600611_2015.txt
+2016-12-31 16:43:30    Search between 重要事项 to 普通股股份变动及股东情况
+2016-12-31 16:43:30    Find contents between two keywords :) Stop searching...
+2016-12-31 16:43:30    find 1 公司股东的净利
+2016-12-31 16:43:30    find 7 委托
+2016-12-31 16:43:30    find 0 华润
+2016-12-31 16:43:30    ---------------------
+2016-12-31 16:43:30    start to parse /home/ziwen/MyProjects/PdfPaser/Step3Keyword/TXTs/000002/000002_2014.txt
+2016-12-31 16:43:30    Search between 重要事项 to 普通股股份变动及股东情况
+2016-12-31 16:43:30    Not found anything between two keywords. Continue searching...
+2016-12-31 16:43:30    Search between 重要事项 to 股份变动及股东情况
+2016-12-31 16:43:30    Not found anything between two keywords. Continue searching...
+2016-12-31 16:43:30    Search between 重要事项 to 股本变动及股东情况
+2016-12-31 16:43:30    Find contents between two keywords :) Stop searching...
+2016-12-31 16:43:30    find 0 公司股东的净利
+2016-12-31 16:43:30    find 0 委托
+2016-12-31 16:43:30    find 11 华润
+2016-12-31 16:43:30    ---------------------
+2016-12-31 16:43:30    start to parse /home/ziwen/MyProjects/PdfPaser/Step3Keyword/TXTs/000002/000002_2015.txt
+2016-12-31 16:43:30    Search between 重要事项 to 普通股股份变动及股东情况
+2016-12-31 16:43:30    Not found anything between two keywords. Continue searching...
+2016-12-31 16:43:30    Search between 重要事项 to 股份变动及股东情况
+2016-12-31 16:43:31    Not found anything between two keywords. Continue searching...
+2016-12-31 16:43:31    Search between 重要事项 to 股本变动及股东情况
+2016-12-31 16:43:31    Find contents between two keywords :) Stop searching...
+2016-12-31 16:43:31    find 0 公司股东的净利
+2016-12-31 16:43:31    find 0 委托
+2016-12-31 16:43:31    find 10 华润
